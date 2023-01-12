@@ -22,4 +22,6 @@ G808 成员签到，目的是让大家熟悉工作流程。任何人不得直接
 
 `xuan`: 全票打飞林浩
 
+`green_moon`: deep♂dark♂fantasy
+
 `LRY`: 🐕啦啦啦
