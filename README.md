@@ -17,3 +17,6 @@ G808 成员签到，目的是让大家熟悉工作流程。任何人不得直接
 `YoitsuHolo`: Dungeon Master
 
 `godhands`: Come on
+
+`cdjx`:加油!签!
+
